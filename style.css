@@ -34,14 +34,14 @@ body {
     display: none;
     position: fixed;
     width: 100%;
-    min-height: 100%;
+    min-height: 100vh;
     padding: 0;
     z-index: 1;
     background-color: rgba(23, 22, 24);
 }
 
 .nav-links {
-    margin: 10rem 25%;
+    margin: 30vh 25vw;
 }
 
 .toggle-button-close {
